@@ -1,6 +1,6 @@
 # Naive-Ollama Alpha Generator
 
-A sophisticated alpha factor generation system that uses Ollama with financial language models to generate, test, and submit alpha factors to WorldQuant Brain. This system replaces the previous Kimi interface with a local Ollama-based solution for better performance and control.
+A alpha factor generation system that uses Ollama with financial language models to generate, test, and submit alpha factors to WorldQuant Brain. This system replaces the previous Kimi interface with a local Ollama-based solution for better performance and control.
 
 
 
